@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @neuqs0035
+- 👀 I’m interested in Python Development
+- 🌱 I’m currently learning Python
+- 📫 How to reach me @insageam : neuqs0035
+- ⚡ Fun fact: I Am Less Confident
